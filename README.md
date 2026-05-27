@@ -8,7 +8,6 @@ A tiny Manifest V3 browser extension that adds an **Export PDF** button to ChatG
 2. Enable **Developer mode**.
 3. Choose **Load unpacked**.
 4. Select this folder:
-   `C:\Users\Tanmmay R Joseph\Documents\Codex\2026-05-27\hey-i-want-you-to-make`
 
 ## Use
 
